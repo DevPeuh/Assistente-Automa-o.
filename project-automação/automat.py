@@ -59,7 +59,7 @@ def takecommand():
     return query
 
 #def sendEmail(to, content):
-#    server = smtplib.SMTP('smtp.gmail.com', 587)
+#    server = smtplib.SMTP('smtp.gmail.com', 178)
 #    server.ehlo()
 #    server.starttls()
 #    server.login('blabla@gmail.com','codigo12334')
